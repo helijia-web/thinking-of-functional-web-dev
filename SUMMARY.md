@@ -2,8 +2,21 @@
 
 * [前言](README.md)
 
-## 关于 Web 开发
+## 软件开发 <a id="about-web-dev"></a>
 
-* [「Web 开发」和「前端开发」](guan-yu-web-kai-fa/web-kai-fa-he-qian-duan-kai-fa.md)
-* [语言的选择](guan-yu-web-kai-fa/yu-yan-de-xuan-ze.md)
+* [软件开发的困难](about-web-dev/problems-in-software-dev.md)
+* [如何选择编程语言](about-web-dev/choosing-your-programming-languages.md)
+
+## 关于函数式编程 <a id="about-functional-programming"></a>
+
+* [程序的本质](about-functional-programming/cheng-xu-de-ben-zhi.md)
+
+## Web 开发
+
+* [「Web 开发」和「前端开发」](web-kai-fa/web-dev-vs-frontend-dev.md)
+* [关于认知](web-kai-fa/untitled.md)
+
+## 团队 <a id="creating-a-great-web-team"></a>
+
+* [编程是一种技能](creating-a-great-web-team/bian-cheng-shi-yi-zhong-ji-neng.md)
 
