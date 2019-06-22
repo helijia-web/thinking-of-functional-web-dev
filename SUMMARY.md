@@ -11,10 +11,10 @@
 
 * [程序的本质](about-functional-programming/cheng-xu-de-ben-zhi.md)
 
-## Web 开发
+## Web 开发 <a id="web-dev"></a>
 
-* [「Web 开发」和「前端开发」](web-kai-fa/web-dev-vs-frontend-dev.md)
-* [关于认知](web-kai-fa/untitled.md)
+* [「Web 开发」和「前端开发」](web-dev/web-dev-vs-frontend-dev.md)
+* [关于认知](web-dev/untitled.md)
 
 ## 团队 <a id="creating-a-great-web-team"></a>
 
