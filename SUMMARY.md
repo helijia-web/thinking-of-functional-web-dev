@@ -10,6 +10,8 @@
 * [问题拆解](about-web-dev/splitting-big-problems.md)
 * [理解你的需求，是简洁设计的秘密](about-web-dev/good-understanding-keeps-design-simple.md)
 * [「受一次伤」原则](about-web-dev/principle-of-hurt-once.md)
+* [如何准确评估开发工作量](about-web-dev/how-to-evaluate.md)
+* [自动化测试](about-web-dev/testing.md)
 
 ## 关于函数式编程 <a id="about-functional-programming"></a>
 
