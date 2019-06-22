@@ -6,6 +6,10 @@
 
 * [软件开发的困难](about-web-dev/problems-in-software-dev.md)
 * [如何选择编程语言](about-web-dev/choosing-your-programming-languages.md)
+* [代码库的划分](about-web-dev/where-does-my-code-belong-to.md)
+* [问题拆解](about-web-dev/splitting-big-problems.md)
+* [理解你的需求，是简洁设计的秘密](about-web-dev/good-understanding-keeps-design-simple.md)
+* [「受一次伤」原则](about-web-dev/principle-of-hurt-once.md)
 
 ## 关于函数式编程 <a id="about-functional-programming"></a>
 
