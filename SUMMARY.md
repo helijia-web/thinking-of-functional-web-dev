@@ -21,6 +21,7 @@
 
 * [「Web 开发」和「前端开发」](web-dev/web-dev-vs-frontend-dev.md)
 * [关于认知](web-dev/untitled.md)
+* [追求：让自己失业](web-dev/kill-your-job.md)
 
 ## 团队 <a id="creating-a-great-web-team"></a>
 
