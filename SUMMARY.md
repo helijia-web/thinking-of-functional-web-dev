@@ -12,7 +12,6 @@
 * [「受一次伤」原则](about-web-dev/principle-of-hurt-once.md)
 * [如何准确评估开发工作量](about-web-dev/how-to-evaluate.md)
 * [自动化测试](about-web-dev/testing.md)
-* [如何写工程师的简历](about-web-dev/making-excellent-resume.md)
 
 ## 关于函数式编程 <a id="about-functional-programming"></a>
 
@@ -30,4 +29,9 @@
 * [没有 Code Review 就没有好团队](creating-a-great-web-team/great-team-cannot-live-without-code-review.md)
 * [关于招聘](creating-a-great-web-team/recruiting.md)
 * [项目上线邮件](creating-a-great-web-team/product-released-email.md)
+
+## 个人发展 <a id="personal-development"></a>
+
+* [如何写工程师的简历](personal-development/making-excellent-resume.md)
+* [Untitled](personal-development/untitled.md)
 
