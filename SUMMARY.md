@@ -32,6 +32,5 @@
 
 ## 个人发展 <a id="personal-development"></a>
 
-* [如何写工程师的简历](personal-development/making-excellent-resume.md)
-* [Untitled](personal-development/untitled.md)
+* [写一封彰显实力而不失优雅的简历](personal-development/making-excellent-resume.md)
 
