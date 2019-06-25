@@ -5,17 +5,19 @@
 ## 软件开发 <a id="about-web-dev"></a>
 
 * [软件开发的困难](about-web-dev/problems-in-software-dev.md)
-* [如何选择编程语言](about-web-dev/choosing-your-programming-languages.md)
-* [代码库的划分](about-web-dev/where-does-my-code-belong-to.md)
-* [问题拆解](about-web-dev/splitting-big-problems.md)
+* [如何选择编程语言](about-web-dev/choose-programming-languages.md)
+* [代码库的划分](about-web-dev/put-codes-in-right-place.md)
+* [问题拆解](about-web-dev/split-big-problems.md)
 * [理解你的需求，是简洁设计的秘密](about-web-dev/good-understanding-keeps-design-simple.md)
 * [「受一次伤」原则](about-web-dev/principle-of-hurt-once.md)
 * [如何准确评估开发工作量](about-web-dev/how-to-evaluate.md)
 * [自动化测试](about-web-dev/testing.md)
+* [依赖包升级策略](about-web-dev/upgrade-dependencies.md)
 
 ## 关于函数式编程 <a id="about-functional-programming"></a>
 
-* [程序的本质](about-functional-programming/cheng-xu-de-ben-zhi.md)
+* [程序的本质](about-functional-programming/essence-of-programs.md)
+* [为什么我和 OOP 分手了](about-functional-programming/why-i-broke-up-with-oop.md)
 
 ## Web 开发 <a id="web-dev"></a>
 
