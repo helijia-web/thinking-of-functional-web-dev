@@ -24,6 +24,8 @@
 * [「Web 开发」和「前端开发」](web-dev/web-dev-vs-frontend-dev.md)
 * [关于认知](web-dev/untitled.md)
 * [追求：让自己失业](web-dev/kill-your-job.md)
+* [你需要有一些业余项目](web-dev/you-need-casual-projects.md)
+* [在 Web 规范中寻找答案](web-dev/seek-answers-in-specifications.md)
 
 ## 团队 <a id="creating-a-great-web-team"></a>
 
@@ -35,4 +37,5 @@
 ## 个人发展 <a id="personal-development"></a>
 
 * [写一封彰显实力而不失优雅的简历](personal-development/making-excellent-resume.md)
+* [Prefer Good Search Engine](personal-development/prefer-good-search-engine.md)
 
