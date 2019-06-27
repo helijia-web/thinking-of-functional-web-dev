@@ -18,7 +18,7 @@
 
 * [程序的本质](about-functional-programming/essence-of-programs.md)
 * [为什么我和 OOP 分手了](about-functional-programming/why-i-broke-up-with-oop.md)
-* [这些特性让编程语言如此不同](about-functional-programming/this-features-make-languages-difference.md)
+* [这些特性让编程语言如此不同](about-functional-programming/this-features-make-language-difference.md)
 
 ## Web 开发 <a id="web-dev"></a>
 
