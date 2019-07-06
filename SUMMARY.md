@@ -13,7 +13,7 @@
 * [如何准确评估开发工作量](about-web-dev/how-to-evaluate.md)
 * [自动化测试](about-web-dev/testing.md)
 * [依赖包升级策略](about-web-dev/upgrade-dependencies.md)
-* [正确理解敏捷软件开发](about-web-dev/why-agile-development-works)
+* [敏捷开发为什么能生效](about-web-dev/why-agile-development-works)
 
 ## 关于函数式编程 <a id="about-functional-programming"></a>
 
